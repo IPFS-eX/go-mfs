@@ -1,10 +1,11 @@
-module github.com/ipfs/go-mfs
+module github.com/IPFS-eX/go-mfs
 
 require (
-	github.com/ipfs/go-blockservice v0.1.1
-	github.com/ipfs/go-cid v0.0.2
-	github.com/ipfs/go-datastore v0.0.5
-	github.com/ipfs/go-ipfs-blockstore v0.0.1
+	github.com/IPFS-eX/go-merkledag v0.3.3-0.20200602102203-e992c6fd83af
+	github.com/ipfs/go-blockservice v0.1.3
+	github.com/ipfs/go-cid v0.0.5
+	github.com/ipfs/go-datastore v0.4.4
+	github.com/ipfs/go-ipfs-blockstore v0.1.4
 	github.com/ipfs/go-ipfs-chunker v0.0.1
 	github.com/ipfs/go-ipfs-exchange-offline v0.0.1
 	github.com/ipfs/go-ipfs-util v0.0.1
