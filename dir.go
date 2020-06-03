@@ -10,8 +10,8 @@ import (
 	"time"
 
 	dag "github.com/IPFS-eX/go-merkledag"
-	ft "github.com/ipfs/go-unixfs"
-	uio "github.com/ipfs/go-unixfs/io"
+	ft "github.com/IPFS-eX/go-unixfs"
+	uio "github.com/IPFS-eX/go-unixfs/io"
 
 	cid "github.com/ipfs/go-cid"
 	ipld "github.com/ipfs/go-ipld-format"
